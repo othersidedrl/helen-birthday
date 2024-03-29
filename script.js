@@ -7,7 +7,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "Hppy sweet seventeen! , semogaa segalaa sesuatu yg lagi di semogakann tersemogakan yaa tahunn ini, langgeng teruss sama grep.. wish u all the best n may the blessing of God be with u n fams🫵🏻🤍🤏🏻🎊<br><br>~celsi",
     "HBD helen, meskipun lu merebut cwo gw tpi oke I'm fine moga lu makin sehat makin langgeng juga ama grepe biar dia gk sadboy lgi<br><br>-Ady",
     "Selamat ulang tahun yang manis untuk Hellen! Semoga usiamu yang ke-17 penuh dengan kebahagiaan, keberhasilan, dan kenangan indah yang akan selamanya menjadi bagian tak terlupakan dari perjalanan hidupmu. Selamat merayakan hari istimewamu dengan penuh keceriaan dan cinta dari orang-orang terdekatmu!<br><br>~Felix",
-    "Happy birthday sengg💕, happy sweet seventeen! Semoga di ulang tahun u di umur 17 ini u bisa semakin rajin,bertumbuh tambah dewasa, bertanggung jawab, dan pastinya makin diberkati dan bisa menjadi berkat juga untuk orang lain GBU!🫂<br><br>-Darel",
+    'Semoga makin dewasa, makin kuat ngejalanin hari" yang makin berat, makin bertumbuh dalam Tuhan, dan selalu andalkan Tuhan dalam setiap keputusan dan kegiatan, dan kurang"in insecure<br><br>~rara',
+    "happy 17th birthdayy senggg! 💞 w berharap di ulang tahun u yang ke 17 ini u makin rajin lagiii bljrr buat sekolahhh, makinn deket dan bangun hubungan sama Tuhan, dan kuranginn insecureee karna u cakepp bangett sumpahh w bingung kenapa u insecure 😭🙏🏻, semogaa u diberkatiii Tuhannn, w berharap u gakk berubahh dan tetap jadi org yang ceria dan bisa menjadi terang di dlm kegelapan (wkwkkw gg ga sih), nahhh udahh ituuu ajaa, semogaaa kitaaa langgeng dan i hope you have a blessed birthday cantikkk luvvvv++++🫂💕<br><br>-darel",
   ];
   let currentIndex = 0;
 
