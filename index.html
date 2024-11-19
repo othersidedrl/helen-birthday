@@ -12,7 +12,6 @@
 <body>
   
   <div class="box">
-    <audio id="birthdaySound" src="sound.mp3" autoplay></audio>
     <img class="crown" src="crown.png">
     <img class="cake" src="kue.png" alt="">
     <img src="duck.png" alt="" class="duck">
@@ -26,5 +25,14 @@
     <button id="changeTextButton" class="click-effect">click me!</button>
   </div>
   <script src="script.js"></script>
+  <script>
+    window.onload = function () {
+      var audio = new Audio("sound.mp3");
+      audio.muted = true; 
+      audio.volume = 0.25;// Start muted
+      audio.play();
+      audio.muted = false;
+    };
+  </script>
 </body>
 </html>
